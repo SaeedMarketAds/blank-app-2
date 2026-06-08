@@ -1,1 +1,11 @@
 streamlit
+
+streamlit-chat
+
+gtts
+
+google-generativeai
+
+requests
+
+beautifulsoup4
